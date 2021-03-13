@@ -1,0 +1,110 @@
+body{
+	background-color: #f4f4f4;
+}
+
+
+.container{
+	width: 80%;
+	margin: auto;
+}
+
+.Viktoria{
+	background-color: #ebc2a4;
+	height: 200px;
+	margin-top: 20px;
+	
+
+}
+
+
+h1{
+	text-align: center;
+	padding-top: 40px;	
+	font-family: Arial;
+	font-size: 45px;
+	margin: 20px;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-weight: 100;
+	line-height: 0.5em;
+	margin: 2;
+	font-family: Arial;
+	font-size: 18px;
+
+}	
+
+
+h3{
+	text-align: center;
+	font-weight: 100;
+	line-height: 0.5em;
+	margin: 2;
+	font-family: Arial;
+	font-size: 18px;
+
+}	
+
+.main{
+	width: 70%;
+	float: center;
+	box-sizing: border-box;
+	font-size: 45px;
+	font-family: Arial;
+	text-align: center;
+
+}
+
+
+
+
+#main-block{
+	float: left;
+	width: 70%;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+.main-block-left{
+	float: left;
+	width: 50%;
+	margin-top: 30px;
+	border-right: 3px black solid;
+	border-top: 3px black solid;
+	border-top-style: solid;
+}
+
+
+.main-block-right{
+	float: right;
+	width: 50%;
+	margin-top: 8px;
+	border-top: 3px black solid;
+	border-top-style: solid;
+}
+
+h4{
+	font-size: 30px;
+	font-family: Arial;
+	margin-left: 20px;
+}
+
+li{
+	font-size: 18px;
+	font-family: Arial;
+}
+
+.main-block-left p{
+	line-height: 0.5em;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+.main-block-right p{
+	line-height: 0.5em;
+	font-size: 18px;
+	font-family: Arial;
+
+}
